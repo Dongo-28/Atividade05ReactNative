@@ -35,7 +35,3 @@ Projeto simples **Expo** com uma tela inicial e 4 "níveis" (componentes) que de
 4. Abra no seu dispositivo:
    - Escaneie o QR code com a app **Expo Go** (Android/iOS), ou
    - Pressione `a` para abrir no emulador Android, `i` para iOS (se tiver configurado).
-
-## Notas
-- Este projeto evita bibliotecas externas de navegação (react-navigation) e faz a navegação por estado para facilidade.
-- Se tiver problemas com `expo` ou versões, actualize o SDK conforme a sua instalação do Expo.
